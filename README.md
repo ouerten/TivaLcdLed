@@ -19,3 +19,8 @@
   E1	  ->     White  
   E2     ->    Green  
   E3     ->    Blue  
+
+
+-Algorithm picks a random color from red, white, green and blue LED pool  
+-Depending on the picked color, previously given text messages start sliding from left to right, bottom to top or vice-verse on the LCD screen.
+-Repeats.
