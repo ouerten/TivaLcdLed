@@ -4,7 +4,7 @@
 
   #### Port Connections:
   
-  ##### Tiva C    LCD Port  
+  ##### Tiva C  ->  LCD Port  
   PB0  ->   RS  
   PB1  ->   E  
   PD4  ->   D4  
@@ -14,8 +14,8 @@
 
  #### LED connections  
 
-#####  Tiva C     LED  
-  E0	       Red  
-  E1	       White  
-  E2         Green  
-  E3         Blue  
+#####  Tiva C  ->   LED  
+  E0	  ->     Red  
+  E1	  ->     White  
+  E2     ->    Green  
+  E3     ->    Blue  
