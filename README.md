@@ -2,9 +2,9 @@
 ![image](https://github.com/ouerten/TivaLcdLed/blob/master/TM4C123GXLpin.jpg?raw=true)   <br /><br /><br />
 
 
-  Port Connections:
+  #### Port Connections:
   
-  Tiva C    LCD Port  
+  ##### Tiva C    LCD Port  
   PB0  ->   RS  
   PB1  ->   E  
   PD4  ->   D4  
@@ -12,9 +12,9 @@
   PD6  ->   D6  
   PD7  ->   D7  
 
-  LED connections  
+ #### LED connections  
 
-  Tiva C     LED  
+#####  Tiva C     LED  
   E0	       Red  
   E1	       White  
   E2         Green  
