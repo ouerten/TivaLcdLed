@@ -1,0 +1,560 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+                              ./src/main.o (rand)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o) (__call_exitprocs)
+
+Allocating common symbols
+Common symbol       size              file
+
+cpu_freq            0x4               ./src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .init          0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .fini          0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .ARM.attributes
+                0x00000000       0x22 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+ .text          0x00000000       0xc8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .data          0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .bss           0x00000000       0x1c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .init_array    0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .fini_array    0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .eh_frame      0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .jcr           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .tm_clone_table
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+ .text          0x00000000       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.extab     0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.exidx     0x00000000        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_line    0x00000000       0x7e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_info    0x00000000       0x98 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_abbrev  0x00000000       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/lcd16x2.o
+ .text          0x00000000        0x0 ./src/lcd16x2.o
+ .data          0x00000000        0x0 ./src/lcd16x2.o
+ .bss           0x00000000        0x0 ./src/lcd16x2.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x85c ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x44 ./src/main.o
+ .debug_macro   0x00000000      0x209 ./src/main.o
+ .debug_macro   0x00000000     0xb522 ./src/main.o
+ .debug_macro   0x00000000       0x2e ./src/main.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/phaseLockedLoop.o
+ .text          0x00000000        0x0 ./src/phaseLockedLoop.o
+ .data          0x00000000        0x0 ./src/phaseLockedLoop.o
+ .bss           0x00000000        0x0 ./src/phaseLockedLoop.o
+ .debug_macro   0x00000000      0x85c ./src/phaseLockedLoop.o
+ .debug_macro   0x00000000       0x16 ./src/phaseLockedLoop.o
+ .debug_macro   0x00000000       0x44 ./src/phaseLockedLoop.o
+ .debug_macro   0x00000000      0x209 ./src/phaseLockedLoop.o
+ .debug_macro   0x00000000     0xb522 ./src/phaseLockedLoop.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/startup_gcc.o
+ .text          0x00000000        0x0 ./src/startup_gcc.o
+ .data          0x00000000        0x0 ./src/startup_gcc.o
+ .bss           0x00000000        0x0 ./src/startup_gcc.o
+ .debug_macro   0x00000000      0x85c ./src/startup_gcc.o
+ .debug_macro   0x00000000       0x16 ./src/startup_gcc.o
+ .debug_macro   0x00000000       0x44 ./src/startup_gcc.o
+ .debug_macro   0x00000000      0x209 ./src/startup_gcc.o
+ .debug_macro   0x00000000       0x67 ./src/startup_gcc.o
+ .group         0x00000000        0x8 ./src/systemTimer.o
+ .group         0x00000000        0x8 ./src/systemTimer.o
+ .group         0x00000000        0x8 ./src/systemTimer.o
+ .group         0x00000000        0x8 ./src/systemTimer.o
+ .group         0x00000000        0x8 ./src/systemTimer.o
+ .text          0x00000000        0x0 ./src/systemTimer.o
+ .data          0x00000000        0x0 ./src/systemTimer.o
+ .bss           0x00000000        0x0 ./src/systemTimer.o
+ .bss.systick_count
+                0x00000000        0x4 ./src/systemTimer.o
+ .text.systick_delay_us
+                0x00000000       0x28 ./src/systemTimer.o
+ .debug_macro   0x00000000      0x85c ./src/systemTimer.o
+ .debug_macro   0x00000000       0x16 ./src/systemTimer.o
+ .debug_macro   0x00000000       0x44 ./src/systemTimer.o
+ .debug_macro   0x00000000      0x209 ./src/systemTimer.o
+ .debug_macro   0x00000000     0xb522 ./src/systemTimer.o
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_info    0x00000000      0x10a /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_abbrev  0x00000000       0xb8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_loc     0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_line    0x00000000       0xa9 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_str     0x00000000      0x230 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_info    0x00000000      0x8e4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_abbrev  0x00000000      0x1e6 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_loc     0x00000000       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_line    0x00000000      0x142 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_str     0x00000000      0x5cd /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_info    0x00000000       0xef /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_abbrev  0x00000000       0xbd /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_loc     0x00000000       0x5c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_line    0x00000000       0x9f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_str     0x00000000      0x228 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x5c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_info    0x00000000      0x105 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_abbrev  0x00000000       0xba /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_loc     0x00000000       0xae /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_line    0x00000000       0xb8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_str     0x00000000      0x252 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-init.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_info    0x00000000      0x117 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_abbrev  0x00000000       0x9f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_loc     0x00000000      0x18b /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_line    0x00000000      0x102 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_str     0x00000000      0x207 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+ .text.srand    0x00000000       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xac /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_info    0x00000000      0x934 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00000000      0x20f /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_loc     0x00000000      0x14d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_ranges  0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_line    0x00000000      0x163 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_str     0x00000000      0x60c /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf8 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_info    0x00000000      0x9aa /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00000000      0x285 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00000000      0x155 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x00000000       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_line    0x00000000      0x19e /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_str     0x00000000      0x624 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .eh_frame      0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .jcr           0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .tm_clone_table
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .ARM.attributes
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+ .init          0x00000000        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+ .fini          0x00000000        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+ .ARM.attributes
+                0x00000000       0x22 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x00000000         0x00040000         xr
+SRAM             0x20000000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+LOAD ./src/lcd16x2.o
+LOAD ./src/main.o
+LOAD ./src/phaseLockedLoop.o
+LOAD ./src/startup_gcc.o
+LOAD ./src/systemTimer.o
+LOAD /home/user/workspace/proje/SW-TM4C-2.1.2.111/driverlib/gcc/libdriver.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtn.o
+
+.text           0x00000000      0xd14
+                0x00000000                _text = .
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c ./src/startup_gcc.o
+                0x00000000                g_pfnVectors
+ *(.text*)
+ .text.ekran_char
+                0x0000026c       0xb4 ./src/lcd16x2.o
+                0x0000026c                ekran_char
+ .text.ekran_yap
+                0x00000320       0xb0 ./src/lcd16x2.o
+                0x00000320                ekran_yap
+ .text.ekran_sil
+                0x000003d0       0x14 ./src/lcd16x2.o
+                0x000003d0                ekran_sil
+ .text.ekran_string
+                0x000003e4       0x28 ./src/lcd16x2.o
+                0x000003e4                ekran_string
+ .text.ekran_git
+                0x0000040c       0x5c ./src/lcd16x2.o
+                0x0000040c                ekran_git
+ .text.lcd_init
+                0x00000468      0x170 ./src/lcd16x2.o
+                0x00000468                lcd_init
+ .text.init_port_E
+                0x000005d8       0x9c ./src/main.o
+                0x000005d8                init_port_E
+ .text.main     0x00000674      0x330 ./src/main.o
+                0x00000674                main
+ .text.pll_init
+                0x000009a4      0x128 ./src/phaseLockedLoop.o
+                0x000009a4                pll_init
+ .text.set_cpu_freq
+                0x00000acc       0x54 ./src/phaseLockedLoop.o
+                0x00000acc                set_cpu_freq
+ .text.get_cpu_freq
+                0x00000b20       0x54 ./src/phaseLockedLoop.o
+                0x00000b20                get_cpu_freq
+ .text.ResetISR
+                0x00000b74       0x78 ./src/startup_gcc.o
+                0x00000b74                ResetISR
+ .text.NmiSR    0x00000bec        0x8 ./src/startup_gcc.o
+ .text.FaultISR
+                0x00000bf4        0x8 ./src/startup_gcc.o
+ .text.IntDefaultHandler
+                0x00000bfc        0x8 ./src/startup_gcc.o
+ .text.systick_init
+                0x00000c04       0x40 ./src/systemTimer.o
+                0x00000c04                systick_init
+ .text.systick_delay
+                0x00000c44       0x3c ./src/systemTimer.o
+                0x00000c44                systick_delay
+ .text.systick_delay_ms
+                0x00000c80       0x2c ./src/systemTimer.o
+                0x00000c80                systick_delay_ms
+ .text.rand     0x00000cac       0x48 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+                0x00000cac                rand
+ *(.rodata*)
+ .rodata        0x00000cf4       0x1c ./src/main.o
+ .rodata.str1.4
+                0x00000d10        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+                0x00000d14                _etext = .
+
+.glue_7         0x00000d14        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x00000d14        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000d14        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x00000d14        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x00000d14        0x0
+ .iplt          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+
+.rel.dyn        0x00000d14        0x0
+ .rel.iplt      0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+
+.data           0x20000000      0x42c load address 0x00000d14
+                0x20000000                _data = .
+                0x00000d14                _ldata = LOADADDR (.data)
+ *(vtable)
+ *(.data*)
+ .data.impure_data
+                0x20000000      0x428 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x20000428        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+                0x20000428                _impure_ptr
+                0x2000042c                _edata = .
+
+.igot.plt       0x2000042c        0x0 load address 0x00001140
+ .igot.plt      0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/softfp/crtbegin.o
+
+.bss            0x2000042c      0x204 load address 0x00001140
+                0x2000042c                _bss = .
+ *(.bss*)
+ .bss.pui32Stack
+                0x2000042c      0x200 ./src/startup_gcc.o
+ *(COMMON)
+ COMMON         0x2000062c        0x4 ./src/main.o
+                0x2000062c                cpu_freq
+                0x20000630                _ebss = .
+OUTPUT(proje.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x17c3
+ .debug_info    0x00000000      0x14e ./src/lcd16x2.o
+ .debug_info    0x0000014e      0x165 ./src/main.o
+ .debug_info    0x000002b3      0x102 ./src/phaseLockedLoop.o
+ .debug_info    0x000003b5      0x16a ./src/startup_gcc.o
+ .debug_info    0x0000051f      0x14d ./src/systemTimer.o
+ .debug_info    0x0000066c      0x894 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_info    0x00000f00      0x8c3 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_abbrev   0x00000000      0x702
+ .debug_abbrev  0x00000000       0x8b ./src/lcd16x2.o
+ .debug_abbrev  0x0000008b       0xd0 ./src/main.o
+ .debug_abbrev  0x0000015b       0xc2 ./src/phaseLockedLoop.o
+ .debug_abbrev  0x0000021d       0xc4 ./src/startup_gcc.o
+ .debug_abbrev  0x000002e1       0xcb ./src/systemTimer.o
+ .debug_abbrev  0x000003ac      0x180 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_abbrev  0x0000052c      0x1d6 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_aranges  0x00000000      0x150
+ .debug_aranges
+                0x00000000       0x48 ./src/lcd16x2.o
+ .debug_aranges
+                0x00000048       0x28 ./src/main.o
+ .debug_aranges
+                0x00000070       0x30 ./src/phaseLockedLoop.o
+ .debug_aranges
+                0x000000a0       0x38 ./src/startup_gcc.o
+ .debug_aranges
+                0x000000d8       0x38 ./src/systemTimer.o
+ .debug_aranges
+                0x00000110       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000128       0x28 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_ranges   0x00000000       0xd8
+ .debug_ranges  0x00000000       0x38 ./src/lcd16x2.o
+ .debug_ranges  0x00000038       0x18 ./src/main.o
+ .debug_ranges  0x00000050       0x20 ./src/phaseLockedLoop.o
+ .debug_ranges  0x00000070       0x28 ./src/startup_gcc.o
+ .debug_ranges  0x00000098       0x28 ./src/systemTimer.o
+ .debug_ranges  0x000000c0       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_macro    0x00000000    0x10889
+ .debug_macro   0x00000000       0x58 ./src/lcd16x2.o
+ .debug_macro   0x00000058      0x85c ./src/lcd16x2.o
+ .debug_macro   0x000008b4       0x2e ./src/lcd16x2.o
+ .debug_macro   0x000008e2       0x16 ./src/lcd16x2.o
+ .debug_macro   0x000008f8       0x44 ./src/lcd16x2.o
+ .debug_macro   0x0000093c      0x209 ./src/lcd16x2.o
+ .debug_macro   0x00000b45     0xb522 ./src/lcd16x2.o
+ .debug_macro   0x0000c067      0x12c ./src/main.o
+ .debug_macro   0x0000c193      0x25e ./src/main.o
+ .debug_macro   0x0000c3f1       0x67 ./src/main.o
+ .debug_macro   0x0000c458       0x58 ./src/main.o
+ .debug_macro   0x0000c4b0       0x35 ./src/main.o
+ .debug_macro   0x0000c4e5       0xa3 ./src/main.o
+ .debug_macro   0x0000c588      0x16d ./src/main.o
+ .debug_macro   0x0000c6f5       0x52 ./src/main.o
+ .debug_macro   0x0000c747       0x16 ./src/main.o
+ .debug_macro   0x0000c75d       0x43 ./src/main.o
+ .debug_macro   0x0000c7a0      0x180 ./src/main.o
+ .debug_macro   0x0000c920       0x10 ./src/main.o
+ .debug_macro   0x0000c930       0x35 ./src/main.o
+ .debug_macro   0x0000c965       0x10 ./src/main.o
+ .debug_macro   0x0000c975       0x10 ./src/main.o
+ .debug_macro   0x0000c985       0x10 ./src/main.o
+ .debug_macro   0x0000c995       0x22 ./src/main.o
+ .debug_macro   0x0000c9b7       0xbd ./src/main.o
+ .debug_macro   0x0000ca74       0x35 ./src/main.o
+ .debug_macro   0x0000caa9       0x58 ./src/phaseLockedLoop.o
+ .debug_macro   0x0000cb01     0x29a3 ./src/phaseLockedLoop.o
+ .debug_macro   0x0000f4a4       0x54 ./src/startup_gcc.o
+ .debug_macro   0x0000f4f8     0x1342 ./src/startup_gcc.o
+ .debug_macro   0x0001083a       0x4f ./src/systemTimer.o
+
+.debug_line     0x00000000      0xb97
+ .debug_line    0x00000000      0x1cb ./src/lcd16x2.o
+ .debug_line    0x000001cb      0x2f3 ./src/main.o
+ .debug_line    0x000004be      0x193 ./src/phaseLockedLoop.o
+ .debug_line    0x00000651      0x18b ./src/startup_gcc.o
+ .debug_line    0x000007dc      0x1a5 ./src/systemTimer.o
+ .debug_line    0x00000981       0xd9 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .debug_line    0x00000a5a      0x13d /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_str      0x00000000    0x44fa9
+ .debug_str     0x00000000    0x3c11d ./src/lcd16x2.o
+                              0x3c270 (size before relaxing)
+ .debug_str     0x0003c11d     0x28be ./src/main.o
+                              0x3eb6d (size before relaxing)
+ .debug_str     0x0003e9db     0x50e6 ./src/phaseLockedLoop.o
+                              0x411e7 (size before relaxing)
+ .debug_str     0x00043ac1      0xeed ./src/startup_gcc.o
+                               0x826d (size before relaxing)
+ .debug_str     0x000449ae       0x7b ./src/systemTimer.o
+                              0x3c17d (size before relaxing)
+ .debug_str     0x00044a29      0x4f9 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+                                0x5c4 (size before relaxing)
+ .debug_str     0x00044f22       0x87 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+                                0x5bb (size before relaxing)
+
+.comment        0x00000000       0x1f
+ .comment       0x00000000       0x1f ./src/lcd16x2.o
+                                 0x20 (size before relaxing)
+ .comment       0x00000000       0x20 ./src/main.o
+ .comment       0x00000000       0x20 ./src/phaseLockedLoop.o
+ .comment       0x00000000       0x20 ./src/startup_gcc.o
+ .comment       0x00000000       0x20 ./src/systemTimer.o
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.ARM.attributes
+                0x00000000       0x2e
+ .ARM.attributes
+                0x00000000       0x37 ./src/lcd16x2.o
+ .ARM.attributes
+                0x00000037       0x37 ./src/main.o
+ .ARM.attributes
+                0x0000006e       0x37 ./src/phaseLockedLoop.o
+ .ARM.attributes
+                0x000000a5       0x37 ./src/startup_gcc.o
+ .ARM.attributes
+                0x000000dc       0x37 ./src/systemTimer.o
+ .ARM.attributes
+                0x00000113       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000145       0x32 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
+
+.debug_frame    0x00000000      0x2ac
+ .debug_frame   0x00000000       0xc8 ./src/lcd16x2.o
+ .debug_frame   0x000000c8       0x4c ./src/main.o
+ .debug_frame   0x00000114       0x64 ./src/phaseLockedLoop.o
+ .debug_frame   0x00000178       0x78 ./src/startup_gcc.o
+ .debug_frame   0x000001f0       0x84 ./src/systemTimer.o
+ .debug_frame   0x00000274       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/../../../arm-none-eabi/lib/armv7e-m/softfp/libg.a(lib_a-rand.o)
